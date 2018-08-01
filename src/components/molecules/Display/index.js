@@ -4,8 +4,8 @@ import { palette } from 'styled-theme'
 
 const StyledDisplay = styled.div`
   display: flex;
-  width: 300px;
-  height: 644px;
+  width: 100%;
+  height: 94%;
   background: ${palette('gray', 0, true)};
   border-radius: 0 1.2em 1.2em 0;
   flex-direction: column;

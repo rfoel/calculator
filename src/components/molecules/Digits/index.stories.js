@@ -1,7 +1,5 @@
 import React from 'react'
 import { storiesOf } from '@storybook/react'
-import Button from '.'
+import Digits from '.'
 
-storiesOf('Button', module)
-  .add('digit', () => <Button>1</Button>)
-  .add('operator', () => <Button>+</Button>)
+storiesOf('Digits', module).add('default', () => <Digits />)

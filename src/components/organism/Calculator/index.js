@@ -6,8 +6,8 @@ const CalculatorWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 375px;
-  height: 667px;
+  width: 350px;
+  height: 600px;
   background: linear-gradient(#d41edb, #6546e4);
 `
 
